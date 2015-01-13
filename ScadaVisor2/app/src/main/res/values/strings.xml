@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- strings that are built by intelliJ -->
+    <string name="app_name">ScadaVisor</string>
+    <string name="title_activity_scada_visor_home">ScadaVisor</string>
+    <string name="action_stop">Exit</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_status_live_card_service">Status Service</string>
+    <string name="back">Back</string>
+
+    <!-- strings for the home screen menu -->
+    <string name="status">Well Status</string>
+    <string name="alarm">Alarms</string>
+    <string name="scada_info">Remote SCADA Monitoring and Field Automation</string>
+
+    <!-- strings for the status menu -->
+    <string name="status_info">Tap For Current Well Status</string>
+    <string name="gustina">Gustina-Bear</string>
+    <string name="BKStephens">BKStephens</string>
+    <string name="Bolton">Bolton</string>
+    <string name="BoyScout">BoyScout</string>
+    <string name="Clay">Clay</string>
+    <string name="EagleCreek">EagleCreek</string>
+    <string name="Family">Family</string>
+    <string name="Groh">Groh</string>
+    <string name="Irons">Irons</string>
+    <string name="Karen">Karen</string>
+    <string name="Lyon">Lyon</string>
+    <string name="McCort">McCort</string>
+    <string name="Michael">Michael</string>
+    <string name="Milliken">Milliken</string>
+    <string name="Ryser">Ryser</string>
+    <string name="Shugert">Shugert</string>
+    <string name="Stout">Stout</string>
+    <string name="Stutzman">Stutzman</string>
+    <string name="Wagner">Wagner</string>
+
+    <!-- strings for well alarm menu -->
+    <string name="alarm_info">Tap For Alarms</string>
+    <string name="alarm_footer">For now, this is a static card</string>
+    <string name="alarm1">Alarm 1</string>
+    <string name="alarm2">Alarm 2</string>
+    <string name="alarm3">Alarm 3</string>
+
+</resources>

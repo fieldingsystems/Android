@@ -1,0 +1,84 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/gustina"
+        android:title="@string/gustina"
+        android:icon="@drawable/ic_camera_50" />
+
+    <item
+        android:id="@+id/BKStephens"
+        android:title="@string/BKStephens"
+        android:icon="@drawable/ic_compass_50" />
+    <item
+        android:id="@+id/Bolton"
+        android:title="@string/Bolton"
+        android:icon="@drawable/ic_computer_50" />
+    <item
+        android:id="@+id/BoyScout"
+        android:title="@string/BoyScout"
+        android:icon="@drawable/ic_glass_logo" />
+    <item
+        android:id="@+id/Clay"
+        android:title="@string/Clay"
+        android:icon="@drawable/ic_delete_50" />
+    <item
+        android:id="@+id/EagleCreek"
+        android:title="@string/EagleCreek"
+        android:icon="@drawable/ic_directions_50" />
+    <item
+        android:id="@+id/Family"
+        android:title="@string/Family"
+        android:icon="@drawable/ic_game_50" />
+    <item
+        android:id="@+id/Groh"
+        android:title="@string/Groh"
+        android:icon="@drawable/ic_calendar_50" />
+    <item
+        android:id="@+id/Irons"
+        android:title="@string/Irons"
+        android:icon="@drawable/ic_message_50" />
+    <item
+        android:id="@+id/Karen"
+        android:title="@string/Karen"
+        android:icon="@drawable/ic_bus_50" />
+    <item
+        android:id="@+id/Lyon"
+        android:title="@string/Lyon"
+        android:icon="@drawable/ic_bluetooth_50" />
+    <item
+        android:id="@+id/McCort"
+        android:title="@string/McCort"
+        android:icon="@drawable/ic_bed_50" />
+    <item
+        android:id="@+id/Michael"
+        android:title="@string/Michael"
+        android:icon="@drawable/ic_beamed_note_50" />
+    <item
+        android:id="@+id/Milliken"
+        android:title="@string/Milliken"
+        android:icon="@drawable/ic_attachment_50" />
+    <item
+        android:id="@+id/Ryser"
+        android:title="@string/Ryser"
+        android:icon="@drawable/ic_attachment_50" />
+    <item
+        android:id="@+id/Shugert"
+        android:title="@string/Shugert"
+        android:icon="@drawable/ic_arrow_right_50" />
+    <item
+        android:id="@+id/Stout"
+        android:title="@string/Stout"
+        android:icon="@drawable/ic_archive_50" />
+    <item
+        android:id="@+id/Stutzman"
+        android:title="@string/Stutzman"
+        android:icon="@drawable/ic_angle_50" />
+    <item
+        android:id="@+id/Wagner"
+        android:title="@string/Wagner"
+        android:icon="@drawable/ic_add_person_50" />
+
+    <item
+        android:id="@+id/back"
+        android:title="@string/back"
+        android:icon="@drawable/ic_world_50" />
+</menu>
